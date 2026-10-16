@@ -290,7 +290,6 @@ movies-recommendation/
 
 ```
 __pycache__/   *.pyc              Python caches
-.freebuff*                        Freebuff workspace files
 my_ratings.txt  seen.txt  watchlist.txt     your personal files
 ```
 
@@ -315,7 +314,3 @@ Everything else is core Python: `list`, `dict`, `set`, `sorted()`, `max()`, `min
 - Python 3.6 or newer (tested on Python 3.14)
 - Works on Linux, macOS and Windows
 - No third-party dependencies, so it also runs in online Python compilers
-
-## About
-
-A simple command-line movie recommendation system written in Python, with grouped menus, genre and language browsing, content similarity, personal recommendations driven by your ratings, seen status and public ratings, and plain text file persistence.
