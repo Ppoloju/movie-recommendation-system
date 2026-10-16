@@ -1,0 +1,220 @@
+# =============================================================================
+# MOVIES DATABASE
+# Format: Title | Year | Language | Genres | Rating | Tags | Description
+#   - Genres and tags are separated by commas
+#   - Rating is the public rating out of 10
+#   - Description is a one line story summary
+#   - Lines starting with # and blank lines are ignored
+# =============================================================================
+
+# ------------------------------- TELUGU -------------------------------------
+Baahubali: The Beginning | 2015 | Telugu | Action,Drama,Adventure,Fantasy | 8.0 | war,king,kingdom,warrior,revenge,history | A rebel searches for the truth about a stolen kingdom and a fallen hero.
+Baahubali 2: The Conclusion | 2017 | Telugu | Action,Drama,Adventure,Fantasy | 8.2 | war,king,kingdom,warrior,revenge,history | The lost prince returns to claim his throne and avenge his father.
+Eega | 2012 | Telugu | Fantasy,Romance,Comedy | 7.9 | reincarnation,housefly,vengeance,love,quirky | A murdered man is reborn as a housefly to protect the woman he loves.
+Magadheera | 2009 | Telugu | Action,Fantasy,Romance | 7.5 | reincarnation,warrior,kingdom,love,history | A warrior reincarnates centuries later to save his love from danger.
+Arjun Reddy | 2017 | Telugu | Drama,Romance | 8.1 | love,heartbreak,doctor,anger,youth | A brilliant but angry surgeon falls apart after the love of his life leaves.
+Ala Vaikunthapurramuloo | 2020 | Telugu | Drama,Action,Family | 7.4 | family,identity,love,revenge,music | A young man learns he was switched at birth and fights for his real family.
+RRR | 2022 | Telugu | Action,Drama,Adventure | 7.8 | freedom,warrior,friendship,colonial,history | Two fearless warriors fight British rule and become legendary friends.
+Pushpa: The Rise | 2021 | Telugu | Action,Thriller,Crime | 7.6 | smuggling,gangster,rural,revenge,power | A red sandalwood smuggler rises through violence and power in the forests.
+Fidaa | 2017 | Telugu | Romance,Drama,Family | 7.2 | village,love,family,culture | A city boy falls for a spirited village girl who refuses to leave her land.
+Jersey | 2019 | Telugu | Drama,Sports | 8.3 | cricket,comeback,family,determination | A failed cricketer returns to the game to win back his son's respect.
+Geetha Govindam | 2018 | Telugu | Romance,Comedy | 7.2 | love,misunderstanding,culture,light | A chance meeting on a bus turns into a stubborn romance full of misunderstandings.
+Tholi Prema | 2018 | Telugu | Romance,Drama | 7.4 | love,youth,music,heartbreak | Two young lovers drift apart and meet again years later.
+Rangasthalam | 2018 | Telugu | Drama,Action | 7.9 | village,politics,revenge,rural,power | A village man with hearing trouble takes on a corrupt political boss.
+Bharat Ane Nenu | 2018 | Telugu | Action,Drama | 7.2 | politics,corruption,justice,leader | An honest graduate becomes chief minister and wages war on corruption.
+Hi Nanna | 2023 | Telugu | Drama,Family,Romance | 7.9 | father,daughter,love,family | A single father's love story unfolds through memories made with his daughter.
+Hanu-Man | 2024 | Telugu | Action,Fantasy,Adventure | 7.0 | myth,hero,village,power | A small-town hero gains mythic powers to protect his village.
+Kalki 2898 AD | 2024 | Telugu | Sci-Fi,Action,Adventure | 7.0 | future,myth,war,dystopia | Warriors and gods clash in a dystopian future built on ancient prophecy.
+Oh Baby! | 2019 | Telugu | Comedy,Fantasy | 7.1 | rebirth,friendship,quirky,family | An elderly woman gets a second chance at youth, friendship and fun.
+Major | 2022 | Telugu | Biography,Action,Drama | 7.5 | soldier,biography,bravery,family | The life and courage of a soldier who saved hundreds in a hotel attack.
+Salaar: Part 1 - Ceasefire | 2023 | Telugu | Action,Thriller | 7.2 | gangster,friendship,blood,power | Two friends become enemies in a bloody war over a crime empire.
+
+# ------------------------------- HINDI --------------------------------------
+3 Idiots | 2009 | Hindi | Comedy,Drama | 8.4 | college,friendship,education,youth | Two friends search for a classmate while mocking the pressure of engineering colleges.
+Dangal | 2016 | Hindi | Drama,Sports,Biography | 8.4 | wrestling,father,daughter,biography,determination | A retired wrestler trains his daughters to become world champions.
+PK | 2014 | Hindi | Comedy,Sci-Fi,Drama | 8.1 | alien,religion,quirky,society | An alien stranded on Earth questions religion with innocent logic.
+Lagaan | 2001 | Hindi | Drama,Sports,Romance | 8.1 | cricket,village,colonial,underdog | A village challenges British officers to a cricket match to escape a crippling tax.
+Queen | 2014 | Hindi | Comedy,Drama,Romance | 8.1 | travel,independence,youth,heartbreak | A jilted bride discovers herself on a solo honeymoon in Paris.
+Andhadhun | 2018 | Hindi | Crime,Thriller,Mystery | 8.2 | blind,murder,music,twist | A blind pianist witnesses a murder and can no longer trust anyone.
+Taare Zameen Par | 2007 | Hindi | Drama,Family | 8.4 | child,education,art,heartwarming | A dyslexic boy is rescued by a teacher who alone sees his hidden talent.
+Barfi! | 2012 | Hindi | Romance,Comedy,Drama | 8.1 | disability,love,friendship,heartwarming | A deaf and mute man finds love and trouble in 1970s Kolkata.
+Gully Boy | 2019 | Hindi | Drama,Biography | 7.9 | hip hop,rapper,youth,dream | A street rapper fights class and family to reach the stage.
+Stree | 2018 | Hindi | Horror,Comedy | 7.1 | ghost,village,laugh,superstition | A village lives in fear of a witch who returns every year for the men.
+War | 2019 | Hindi | Action,Thriller | 6.5 | agent,chase,mentor,traitor | An agent is sent to hunt down his own rogue mentor in a global chase.
+Pathaan | 2023 | Hindi | Action,Thriller | 6.9 | agent,spy,chase,espionage | A spy returns from exile to stop a deadly weapon from being unleashed.
+Jawan | 2023 | Hindi | Action,Thriller | 7.0 | justice,revenge,politics,team | A man with a grudge takes on a corrupt system with a team beside him.
+Animal | 2023 | Hindi | Action,Crime,Drama | 6.6 | family,violence,power,son | A powerful family, a devoted son, and a love that turns destructive.
+Drishyam | 2015 | Hindi | Crime,Thriller,Mystery | 8.2 | family,murder,cover up,twist | A father uses his knowledge of films to hide a crime committed by his family.
+Zindagi Na Milegi Dobara | 2011 | Hindi | Drama,Romance,Adventure | 8.1 | friendship,travel,poetry,life | Three friends on a bachelor trip confront their fears and themselves.
+Yeh Jawaani Hai Deewani | 2013 | Hindi | Romance,Drama | 7.1 | friendship,love,youth,travel | Childhood friends meet again and choose between dreams and love.
+Om Shanti Om | 2007 | Hindi | Romance,Drama,Fantasy | 6.6 | rebirth,revenge,movie world,love | A dead actor is reborn to expose the killer who murdered him.
+Mughal-e-Azam | 1960 | Hindi | Drama,History,Romance | 8.1 | palace,love,history,war | An emperor's love for a court dancer defies his entire empire.
+Shershaah | 2021 | Hindi | War,Biography,Drama | 7.9 | soldier,biography,bravery,love | The story of a soldier who fought to the last bullet in Kargil.
+Chak De! India | 2007 | Hindi | Drama,Sports | 8.2 | hockey,team,coach,determination | A disgraced player coaches a divided women's hockey team to glory.
+Munna Bhai M.B.B.S. | 2003 | Hindi | Comedy,Drama | 8.2 | doctor,kindness,hospital,friendship | A gangster enters medical school and heals people with kindness instead of fear.
+
+# ------------------------------- ENGLISH ------------------------------------
+The Shawshank Redemption | 1994 | English | Drama,Crime | 9.3 | prison,friendship,hope,escape | Two imprisoned men bond over years, hope and a carefully hidden escape plan.
+The Godfather | 1972 | English | Crime,Drama | 9.2 | mafia,family,power,revenge | A reluctant son is drawn deep into his family's crime empire.
+The Dark Knight | 2008 | English | Action,Crime,Thriller | 9.0 | hero,villain,justice,city | A masked hero faces an agent of chaos determined to break a whole city.
+Forrest Gump | 1994 | English | Drama,Romance | 8.8 | life,love,history,kindness | A kind simple man stumbles through decades of American history.
+Inception | 2010 | English | Sci-Fi,Thriller,Action | 8.8 | dream,heist,mind,twist | A thief who steals dreams is hired to plant an idea instead.
+Interstellar | 2014 | English | Sci-Fi,Adventure,Drama | 8.7 | space,time,father,science | Explorers cross a wormhole searching for a new home for humanity.
+The Matrix | 1999 | English | Sci-Fi,Action | 8.7 | reality,hacker,dystopia,philosophy | A hacker learns reality is a machine-made prison and fights back.
+Gladiator | 2000 | English | Action,Drama,Adventure | 8.5 | empire,revenge,arena,honor | A betrayed general fights his way from slavery back to the emperor.
+Whiplash | 2014 | English | Drama | 8.5 | music,jazz,ambition,mentor | A young drummer and a merciless teacher push each other past all limits.
+Avengers: Endgame | 2019 | English | Action,Adventure,Sci-Fi | 8.4 | superhero,team,space,sacrifice | The surviving heroes travel through time to undo a cosmic catastrophe.
+Oppenheimer | 2023 | English | Biography,Drama,History | 8.3 | scientist,war,guilt,history | The physicist who built the atomic bomb is haunted by what it became.
+Jurassic Park | 1993 | English | Adventure,Sci-Fi,Thriller | 8.2 | dinosaurs,island,science,survival | A preview night at a dinosaur park turns into a fight for survival.
+Toy Story | 1995 | English | Animation,Family,Comedy | 8.3 | toy,friendship,child,adventure | A cowboy doll's jealousy of a new favourite toy turns into friendship.
+Pirates of the Caribbean | 2003 | English | Adventure,Comedy,Fantasy | 8.1 | pirate,sea,treasure,curse | A cursed crew, a roguish captain and one stolen treasure.
+La La Land | 2016 | English | Romance,Musical,Comedy | 8.0 | dream,music,love,city | An actress and a jazz pianist fall in love while chasing big dreams.
+Get Out | 2017 | English | Horror,Mystery,Thriller | 7.7 | race,thriller,twist,horror | A weekend meeting his girlfriend's family reveals a terrifying secret.
+The Hangover | 2009 | English | Comedy | 7.7 | friends,wedding,chaos,laugh | Three friends wake up with no memory and a missing groom.
+Arrival | 2016 | English | Sci-Fi,Drama,Mystery | 7.9 | alien,language,time,emotion | A linguist learns to talk to aliens and starts to see time differently.
+Knives Out | 2019 | English | Mystery,Comedy,Crime | 7.9 | detective,family,murder,twist | A detective investigates a wealthy family after a patriarch's sudden death.
+The Conjuring | 2013 | English | Horror,Thriller | 7.5 | ghost,demon,haunted,investigation | Paranormal investigators help a family haunted by a dark presence.
+A Quiet Place | 2018 | English | Horror,Sci-Fi | 7.5 | silence,monster,survival,family | A family survives in silence while creatures hunt down every sound.
+Titanic | 1997 | English | Romance,Drama | 7.9 | ship,disaster,love,class | Class, courage and love collide on a ship the ocean is about to take.
+Frozen | 2013 | English | Animation,Family,Adventure | 7.4 | princess,sister,magic,snow | Two sisters, one hidden power and an eternal winter that must end.
+Casablanca | 1942 | English | Romance,Drama,War | 8.5 | war,love,sacrifice,classic | A cynical club owner must choose between love and a greater cause.
+The Truman Show | 1998 | English | Comedy,Drama,Sci-Fi | 8.2 | reality,tv,freedom,quirky | A man discovers that his whole life is a televised fake world.
+
+# ------------------------------- MORE TELUGU ---------------------------------
+Pelli Choopulu | 2016 | Telugu | Romance,Comedy | 7.5 | love,food,startup,youth,ambition | An ambitious girl and a laid back boy turn a food truck idea into love and a career.
+Kshanam | 2016 | Telugu | Thriller,Mystery | 7.5 | kidnap,neighbour,suspense,secret | A man risks everything to prove his neighbour's child was really kidnapped.
+Sarrainodu | 2016 | Telugu | Action,Thriller | 7.0 | soldier,violence,power,revenge | An ex soldier takes on a powerful politician who is terrorising a family.
+Nannaku Prematho | 2016 | Telugu | Action,Thriller | 7.2 | revenge,business,love,trick | A young man plots revenge against a businessman through the man's own daughter.
+Janatha Garage | 2016 | Telugu | Action,Drama | 7.2 | environment,garage,justice,nature | An environmentalist and a garage owner fight those destroying nature.
+Khaidi No. 150 | 2016 | Telugu | Action,Drama | 7.2 | prison,village,farmer,redemption | A released prisoner fights to save villagers from a corrupt company.
+24 | 2016 | Telugu | Sci-Fi,Thriller | 7.0 | watch,time,invention,scientist | A watchmaker's invention traps a man in a loop of time and identity.
+Ekkadiki Pothavu Chinnavada | 2016 | Telugu | Romance,Thriller | 7.0 | ghost,love,mystery,haunting | A man falls for a woman while a haunted house hides an old tragedy.
+Premam | 2016 | Telugu | Romance,Drama | 6.5 | love,youth,college,growing | Three stages of one man's love stories, from college to adulthood.
+Nenu Local | 2017 | Telugu | Romance,Comedy | 6.5 | love,family,fun,commonman | A carefree young man fights for the girl he loves against her family.
+Jai Lava Kusa | 2017 | Telugu | Action,Comedy | 6.5 | twins,con,entertainment,mischief | Three brothers, one hero, one thief and a plan that goes wrong.
+MCA (Middle Class Abbayi) | 2017 | Telugu | Drama,Family | 6.7 | family,brother,sacrifice,village | A caring brother goes to any length to protect his family.
+Raja The Great | 2017 | Telugu | Action,Comedy | 6.4 | blind,hero,protection,fun | A blind man with sharp senses becomes the protector of a village.
+Keshava | 2017 | Telugu | Thriller,Crime | 6.5 | murder,law,obsession,crime | A man with a heart condition plans a perfect crime for his own reasons.
+Mahanati | 2018 | Telugu | Biography,Drama,Romance | 8.5 | actress,glory,biography,goldenage | The rise and fall of a legendary actress of South Indian cinema.
+Naa Peru Surya, Naa Illu India | 2018 | Telugu | Action,Drama | 7.5 | soldier,discipline,patriotism,anger | A hot headed soldier must cure his anger to serve the nation.
+Aravinda Sametha | 2018 | Telugu | Action,Drama | 7.5 | village,faction,peace,revenge | A young man tries to end a deadly village feud instead of continuing it.
+RX100 | 2018 | Telugu | Romance,Thriller | 7.0 | love,betrayal,intense,youth | A passionate love story that ends in shock and betrayal.
+Goodachari | 2018 | Telugu | Thriller,Crime | 7.5 | spy,agent,conspiracy,thriller | A young agent uncovers a conspiracy while hunting for his missing father.
+Bhaagamathie | 2018 | Telugu | Horror,Thriller | 6.8 | ghost,haunted,politics,prison | An officer imprisoned in a haunted house becomes a pawn in a political game.
+Duvvada Jagannadham | 2018 | Telugu | Action,Comedy | 6.5 | food,justice,disguise,fun | A Brahmin cook moonlights as a masked avenger of the corrupt.
+Saaho | 2019 | Telugu | Action,Thriller | 6.0 | heist,agent,chase,money | An undercover agent takes on a gang after a heist rocks the city.
+Sye Raa Narasimha Reddy | 2019 | Telugu | History,Action | 6.8 | rebellion,empire,war,freedom | A fearless warrior leads the first rebellion against an empire.
+Mathu Vadalara | 2019 | Telugu | Comedy,Crime | 7.2 | delivery,crime,money,fun | A delivery boy's small job turns into a crime he cannot escape.
+Prathi Roju Pandage | 2019 | Telugu | Comedy,Family | 6.8 | grandfather,doctor,festival,love | A busy doctor rediscovers his grandfather's love during one festival.
+Sarileru Neekevvaru | 2020 | Telugu | Action,Comedy | 6.7 | soldier,village,justice,fun | A soldier on leave steps in to fix a village's troubles.
+Bheeshma | 2020 | Telugu | Comedy,Action | 6.4 | farming,romance,confusion,fun | A reluctant bachelor is dragged into a corporate farming mess.
+Jathi Ratnalu | 2021 | Telugu | Comedy | 7.5 | friends,misunderstanding,prison,fun | Two friends land in jail for a crime they do not understand.
+Love Story | 2021 | Telugu | Romance,Drama | 7.0 | village,city,marriage,dance | A small town dancer and a city girl fight caste and family for love.
+Vakeel Saab | 2021 | Telugu | Drama,Action | 6.5 | lawyer,justice,women,court | A lawyer returns to fight for justice in a case everyone wants buried.
+Sita Ramam | 2022 | Telugu | Romance,Drama,War | 8.3 | soldier,letters,love,mystery | A soldier's letters to a stranger turn into a love story across borders.
+Karthikeya 2 | 2022 | Telugu | Adventure,Fantasy | 8.0 | myth,ancient,quest,gods | A doctor follows an ancient mystery that leads to a lost heritage.
+DJ Tillu | 2022 | Telugu | Crime,Comedy | 7.0 | con,romance,money,chaos | A carefree DJ falls for a girl who drags him into a dangerous con.
+F3: Fun and Frustration | 2022 | Telugu | Comedy | 6.5 | money,fun,chaos,family | Two men chase easy money and land in hilarious trouble.
+Dhamaka | 2022 | Telugu | Action,Comedy | 6.5 | politics,comedy,commonman,fun | A cheerful common man is pushed into politics by accident.
+Sarkaru Vaari Paata | 2022 | Telugu | Action,Drama | 6.5 | money,loans,justice,village | A money lender's son takes on a system that traps the poor.
+Dasara | 2023 | Telugu | Action,Drama | 7.0 | coal,village,festival,revenge | Friends, lovers and rivals in a coal village during a festival of fire.
+Virupaksha | 2023 | Telugu | Mystery,Thriller | 7.0 | village,superstition,murder,secrets | A man returns to his village where old beliefs hide a brutal secret.
+Miss Shetty Mr Polishetty | 2023 | Telugu | Romance,Comedy | 7.0 | chef,standup,love,fun | A chef and a stand up comedian try an unusual kind of romance.
+Bhagavanth Kesari | 2023 | Telugu | Action,Drama | 6.5 | sisters,revenge,promise,strength | A man keeps a promise to his sister against a dangerous enemy.
+Guntur Kaaram | 2024 | Telugu | Action,Drama | 6.0 | family,power,revenge,business | A son torn between his mother's love and his grandfather's empire.
+Pushpa 2: The Rule | 2024 | Telugu | Action,Thriller | 7.0 | smuggling,gangster,power,rule | The smuggler's empire grows as enemies close in from every side.
+Tillu Square | 2024 | Telugu | Crime,Comedy | 6.5 | con,romance,mystery,fun | A young man's messy love life drags him into another crime.
+Sankranthiki Vasthunam | 2025 | Telugu | Comedy,Action | 7.0 | festival,family,fun,mystery | A retired cop and his family solve a mystery over the festival weekend.
+
+# ------------------------------- MORE HINDI ----------------------------------
+Sultan | 2016 | Hindi | Drama,Sports | 7.0 | wrestler,career,comeback,love | A champion wrestler loses his way and fights back to the ring.
+M.S. Dhoni: The Untold Story | 2016 | Hindi | Biography,Sports | 7.8 | cricket,biography,dream,rise | The journey of a ticket collector who became a cricketing captain.
+Kapoor & Sons | 2016 | Hindi | Drama,Family | 7.4 | family,brothers,secrets,reunion | Two brothers reunite and face the cracks in their family.
+Pink | 2016 | Hindi | Drama,Crime | 8.0 | court,respect,women,justice | Three women teach a powerful man what consent means in court.
+Dear Zindagi | 2016 | Hindi | Drama | 7.4 | life,therapy,friendship,growing | A young woman learns to live with life through unexpected friendship.
+Ae Dil Hai Mushkil | 2016 | Hindi | Romance,Drama | 7.0 | love,friendship,heartbreak,music | Love and friendship tested across cities and years.
+Raees | 2017 | Hindi | Crime,Thriller | 7.0 | smuggling,gangster,power,morality | A shrewd businessman rises in the illegal trade of a tough state.
+Hindi Medium | 2017 | Hindi | Comedy,Drama | 7.8 | school,education,class,parents | Poor parents pretend to be rich to get their daughter a school seat.
+Badrinath Ki Dulhania | 2017 | Hindi | Romance,Comedy | 6.5 | love,wedding,fun,misunderstanding | A small town boy chases a girl with big dreams and bigger opinions.
+Secret Superstar | 2017 | Hindi | Drama,Family | 7.8 | music,dreams,mother,singing | A girl uploads songs in secret and finds her voice against her father.
+Gol Maal Again | 2017 | Hindi | Comedy | 6.5 | farce,ghost,office,fun | An office full of lies collides with a genuinely haunted house.
+Padmaavat | 2018 | Hindi | History,Drama | 7.0 | kingdom,honor,war,legend | A queen's courage is tested by a sultan's obsession and war.
+Sanju | 2018 | Hindi | Biography,Drama | 7.6 | actor,biography,father,chaos | The wild, true life of an actor told through ups and scandals.
+Badhaai Ho | 2018 | Hindi | Comedy,Family | 7.8 | parents,embarrassment,love,family | A grown son panics when his parents announce a surprise.
+URI: The Surgical Strike | 2019 | Hindi | War,Action | 8.3 | soldier,army,revenge,patriotism | Soldiers plan a bold strike after an attack on their camp.
+Article 15 | 2019 | Hindi | Crime,Drama | 7.8 | police,inequality,village,justice | A young officer confronts deep rooted injustice in a village.
+Chhichhore | 2019 | Hindi | Comedy,Drama | 7.8 | college,friends,failure,competition | A father tells his son the story of his glorious loser days.
+Bala | 2019 | Hindi | Comedy,Drama | 7.0 | hair,insecurity,selflove,fun | A small town man battles his receding hairline and his insecurities.
+Dream Girl | 2019 | Hindi | Comedy | 7.0 | voice,impersonation,romance,fun | A man with a lovely voice becomes everyone's dream girl over the phone.
+Tanhaji: The Unsung Warrior | 2020 | Hindi | History,Action | 7.5 | warrior,fort,battle,devotion | A fearless warrior recaptures a fort for his king in a legendary battle.
+Ludo | 2020 | Hindi | Crime,Comedy | 7.3 | crime,chaos,fate,interwoven | Four messy stories collide like dice thrown by fate.
+Sardar Udham | 2021 | Hindi | Biography,Drama | 8.3 | revolution,revenge,biography,history | A revolutionary waits years abroad to avenge a massacre.
+83 | 2021 | Hindi | Sports,Drama | 7.3 | cricket,team,underdogs,history | An underdog team travels to win the country's first World Cup.
+Gangubai Kathiawadi | 2022 | Hindi | Biography,Drama | 7.8 | power,empire,biography,dignity | A woman rises from the red light district to fight for her people.
+The Kashmir Files | 2022 | Hindi | Drama,History | 7.8 | history,pain,truth,exodus | A student uncovers a painful chapter his family tried to bury.
+Bhool Bhulaiyaa 2 | 2022 | Hindi | Horror,Comedy | 6.8 | ghost,manor,comedy,secrets | A carefree man faces an old ghost in a locked mansion.
+Drishyam 2 | 2022 | Hindi | Crime,Thriller | 8.0 | family,murder,cover,twist | Years later the case reopens and a father's perfect plan is tested.
+Brahmastra | 2022 | Hindi | Fantasy,Action | 6.5 | myth,fire,ancient,power | A young man discovers a divine weapon and a hidden war of astras.
+Tu Jhoothi Main Makkaar | 2023 | Hindi | Romance,Comedy | 7.0 | love,pride,family,fun | Two stubborn lovers turn flirting into a war of pride.
+Rocky Aur Rani Kii Prem Kahaani | 2023 | Hindi | Romance,Comedy | 7.2 | family,love,culture,fun | Two opposites swap families to prove their love is real.
+OMG 2 | 2023 | Hindi | Comedy,Drama | 7.3 | court,education,god,justice | A father takes the school system to court with god as his witness.
+Gadar 2 | 2023 | Hindi | War,Drama | 7.0 | partition,love,soldier,bravery | A fierce love story continues across a border at war.
+Sam Bahadur | 2023 | Hindi | Biography,War | 7.8 | army,biography,history,courage | The life of a blunt, brilliant general who never lost a war.
+12th Fail | 2023 | Hindi | Drama,Biography | 8.5 | exam,failure,comeback,dream | A village boy fails, restarts and fights his way to the top exam.
+Dunki | 2023 | Hindi | Comedy,Drama | 7.0 | friendship,journey,home,return | Friends scheme a funny and painful way back home.
+Fighter | 2024 | Hindi | Action,War | 6.5 | pilots,airforce,team,bravery | Fighter pilots defend the nation in a high flying mission.
+Stree 2 | 2024 | Hindi | Horror,Comedy | 7.0 | ghost,village,laugh,superstition | The town's women are hunted by a new terror while the village jokes on.
+Shaitaan | 2024 | Hindi | Horror,Thriller | 7.0 | occult,possession,family,dark | A smiling stranger leads a family into a nightmare of black magic.
+Laapataa Ladies | 2024 | Hindi | Comedy,Drama | 8.0 | village,missing,identity,search | Two brides get swapped on a train and a whole system wakes up.
+Kill | 2024 | Hindi | Action,Thriller | 7.0 | train,fight,revenge,brutal | One commando fights an entire gang through the cars of a night train.
+Chhaava | 2025 | Hindi | History,Action | 8.0 | empire,battle,revenge,legacy | A son picks up his father's sword against a vast empire.
+Kesari Chapter 2 | 2025 | Hindi | Drama,History | 7.5 | court,law,history,truth | A lawyer fights a colonial power in a forgotten massacre case.
+Raid 2 | 2025 | Hindi | Crime,Thriller | 7.0 | tax,raid,power,corruption | An honest officer takes on a political kingpin beyond the ledger.
+War 2 | 2025 | Hindi | Action,Thriller | 6.0 | agent,spy,rivalry,chase | Two elite agents collide in a mission of loyalty and betrayal.
+
+# ------------------------------- MORE ENGLISH --------------------------------
+Dunkirk | 2017 | English | War,Action | 7.9 | rescue,soldiers,survival,sea | Thousands of soldiers race against time to escape a beach.
+Blade Runner 2049 | 2017 | English | Sci-Fi,Mystery | 8.0 | future,detective,memory,identity | A replicant detective uncovers a secret that could end the world.
+The Greatest Showman | 2017 | English | Musical,Drama | 7.5 | dream,circus,music,rise | A visionary builds a spectacle of outcasts and song.
+Coco | 2017 | English | Animation,Family | 8.4 | music,family,memory,adventure | A boy enters the land of the dead to find his family's true song.
+Three Billboards Outside Ebbing, Missouri | 2017 | English | Crime,Drama | 7.8 | justice,grief,smalltown,anger | A mother puts up billboards to force a murder case back open.
+Black Panther | 2018 | English | Action,Adventure | 7.3 | hero,kingdom,future,hidden | A new king defends a hidden nation from a ghost of the past.
+A Star Is Born | 2018 | English | Musical,Drama | 7.6 | music,fame,love,sacrifice | A fading star lifts a new voice while his own light burns out.
+Bohemian Rhapsody | 2018 | English | Biography,Musical | 7.9 | band,music,biography,stage | The rise of a unique band and the singer who led it.
+Spider-Man: Into the Spider-Verse | 2018 | English | Animation,Adventure | 8.4 | multiverse,hero,youth,spider | A teenager meets many versions of himself across the multiverse.
+Green Book | 2018 | English | Biography,Drama | 8.2 | road,friendship,prejudice,journey | A driver and a pianist cross the country and each other's world.
+1917 | 2019 | English | War,Drama | 8.2 | mission,soldiers,time,bravery | Two runners carry a warning across enemy lines in real time.
+Joker | 2019 | English | Crime,Drama | 8.4 | society,loneliness,chaos,origin | A failed comedian breaks into a villain of the city's making.
+Once Upon a Time in Hollywood | 2019 | English | Comedy,Drama | 7.6 | hollywood,stunts,fame,seventies | A fading actor and his stunt double drift through a changing town.
+Ford v Ferrari | 2019 | English | Drama,Sports | 8.1 | racing,team,engineering,obsession | A designer and a driver chase speed against a corporate giant.
+Little Women | 2019 | English | Drama,Romance | 7.8 | sisters,growing,ambition,love | Four sisters grow up, write, love and fight for their own lives.
+Jojo Rabbit | 2019 | English | Comedy,War | 7.7 | satire,child,war,imagination | A boy's imaginary friend is Hitler until truth walks into his house.
+Soul | 2020 | English | Animation,Family | 8.0 | music,purpose,life,jazz | A musician learns what life is really for on the way to his big break.
+Tenet | 2020 | English | Sci-Fi,Thriller | 7.3 | time,spionage,inversion,mind | An agent learns to move backwards through time to stop a war.
+The Trial of the Chicago 7 | 2020 | English | Drama,History | 7.8 | court,protest,history,politics | Activists stand trial and turn a courtroom into a statement.
+Dune | 2021 | English | Sci-Fi,Adventure | 8.0 | desert,future,prophecy,power | A noble family and a chosen boy enter a war over a desert planet.
+No Time to Die | 2021 | English | Action,Thriller | 7.3 | spy,agent,villain,farewell | A retired agent returns for one last dangerous mission.
+CODA | 2021 | English | Drama,Family | 7.9 | music,family,hearing,support | The only hearing child of a deaf family chases her own voice.
+Spider-Man: No Way Home | 2021 | English | Action,Adventure | 8.2 | multiverse,hero,villains,consequences | A spell breaks the multiverse and brings old enemies back.
+The Batman | 2022 | English | Crime,Action | 7.8 | detective,city,riddles,revenge | A young Batman hunts a killer leaving riddles for the whole city.
+Top Gun: Maverick | 2022 | English | Action,Drama | 8.2 | pilots,training,speed,mentor | An aging pilot trains a team for an impossible mission.
+Everything Everywhere All at Once | 2022 | English | Sci-Fi,Comedy | 7.8 | multiverse,tax,family,chaos | A laundromat owner saves every universe while sorting her taxes.
+Avatar: The Way of Water | 2022 | English | Sci-Fi,Adventure | 7.5 | ocean,world,clan,survival | A family flees to the sea clans of a living ocean world.
+Elvis | 2022 | English | Biography,Musical | 7.3 | music,stage,biography,rise | The life of a voice that changed music, managed by a shrewd man.
+All Quiet on the Western Front | 2022 | English | War,Drama | 7.8 | trenches,soldiers,war,loss | A young soldier learns the true cost of a war he was taught to love.
+Glass Onion: A Knives Out Mystery | 2022 | English | Mystery,Comedy | 7.1 | detective,island,clues,farce | A detective unravels a billionaire's party of lies.
+Spider-Man: Across the Spider-Verse | 2023 | English | Animation,Adventure | 8.6 | multiverse,hero,fate,friendship | Miles meets a society of spiders and a fate he refuses to accept.
+John Wick: Chapter 4 | 2023 | English | Action,Crime | 7.7 | assassin,revenge,code,fight | An assassin fights his way to freedom through the high table.
+The Super Mario Bros. Movie | 2023 | English | Animation,Family | 7.0 | plumber,kingdom,adventure,mushroom | Two brothers jump into a mushroom kingdom to save a princess.
+Guardians of the Galaxy Vol. 3 | 2023 | English | Action,Sci-Fi | 7.9 | space,team,family,origin | The guardians face the past of a teammate to save their future.
+Killers of the Flower Moon | 2023 | English | Crime,Drama | 7.6 | oil,murder,history,investigation | A nation is murdered for its oil while trusted friends profit.
+Past Lives | 2023 | English | Romance,Drama | 7.8 | childhood,love,choices,distance | Two childhood friends meet again after twenty years apart.
+Dune: Part Two | 2024 | English | Sci-Fi,Adventure | 8.5 | desert,prophecy,war,revenge | The chosen boy becomes the prophet of a desert war.
+Inside Out 2 | 2024 | English | Animation,Family | 7.5 | emotions,growing,anxiety,teen | New emotions move into a teenager's head and rearrange everything.
+Barbie | 2024 | English | Comedy,Fantasy | 6.8 | doll,world,identity,fun | A perfect doll leaves her perfect world to find out who she is.
+The Wild Robot | 2024 | English | Animation,Family | 8.2 | robot,nature,adoption,survival | A shipwrecked robot learns to care for an orphaned gosling.
+Wicked | 2024 | English | Musical,Fantasy | 7.4 | wizard,friendship,stage,magic | The untold friendship of a green witch and a good one.
+Nosferatu | 2024 | English | Horror,Fantasy | 7.0 | vampire,obsession,dark,gothic | An ancient obsession feeds on a young woman's life.
+Superman | 2025 | English | Action,Adventure | 7.5 | hero,alien,love,hope | A kind alien balances a heritage with the world that raised him.
+F1 | 2025 | English | Drama,Sports | 7.8 | racing,comeback,team,speed | A burned out driver mentors a rookie through a roaring season.
+Jurassic World Rebirth | 2025 | English | Adventure,Sci-Fi | 6.5 | dinosaurs,survival,island,mission | A team races to reach dinosaurs on a forbidden island.
